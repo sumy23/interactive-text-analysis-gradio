@@ -1,3 +1,9 @@
+interactive-text-analysis-gradio/
+├── app.py                  # Main Gradio app
+├── requirements.txt        # Dependencies
+├── README.md               # Project documentation (below)
+
+
 #  Text Analyzer App – Gradio Interface
 
 This project is a lightweight NLP application built using Python and Gradio. It performs simple keyword extraction and mock sentiment classification based on user input text.
